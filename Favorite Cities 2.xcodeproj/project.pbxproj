@@ -16,6 +16,7 @@
 		A4CAFB5023D8B2F200134AB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4CAFB4E23D8B2F200134AB3 /* LaunchScreen.storyboard */; };
 		A4CAFB5B23D8B2F300134AB3 /* Favorite_Cities_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4CAFB5A23D8B2F300134AB3 /* Favorite_Cities_2Tests.swift */; };
 		A4CAFB6623D8B2F300134AB3 /* Favorite_Cities_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4CAFB6523D8B2F300134AB3 /* Favorite_Cities_2UITests.swift */; };
+		A4CAFB7423D8B37D00134AB3 /* Assignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4CAFB7323D8B37D00134AB3 /* Assignment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A4CAFB6123D8B2F300134AB3 /* Favorite Cities 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Favorite Cities 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4CAFB6523D8B2F300134AB3 /* Favorite_Cities_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorite_Cities_2UITests.swift; sourceTree = "<group>"; };
 		A4CAFB6723D8B2F300134AB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A4CAFB7323D8B37D00134AB3 /* Assignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		A4CAFB3523D8B2EC00134AB3 = {
 			isa = PBXGroup;
 			children = (
+				A4CAFB7323D8B37D00134AB3 /* Assignment.swift */,
 				A4CAFB4023D8B2EC00134AB3 /* Favorite Cities 2 */,
 				A4CAFB5923D8B2F300134AB3 /* Favorite Cities 2Tests */,
 				A4CAFB6423D8B2F300134AB3 /* Favorite Cities 2UITests */,
@@ -265,6 +268,7 @@
 				A4CAFB4223D8B2EC00134AB3 /* AppDelegate.swift in Sources */,
 				A4CAFB4423D8B2EC00134AB3 /* SceneDelegate.swift in Sources */,
 				A4CAFB4623D8B2EC00134AB3 /* MasterViewController.swift in Sources */,
+				A4CAFB7423D8B37D00134AB3 /* Assignment.swift in Sources */,
 				A4CAFB4823D8B2EC00134AB3 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
